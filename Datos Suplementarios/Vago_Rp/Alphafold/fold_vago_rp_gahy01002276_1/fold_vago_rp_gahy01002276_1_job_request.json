@@ -1,0 +1,18 @@
+[{
+ "name": "vago_Rp_GAHY01002276-1",
+ "modelSeeds": [
+  "671966671"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MRALIVLTGVALLCTAWAADKKKDGERSKTFTRLIPADVLRDFPNMCFASTRCATIAPGASWELSPFCGKSTCVKAEEDGRLLELVEDCGPLPKTNPKCKLSEKTNKTAPFPHCCPVFECEPGVKLEYPEIPTPPPAAAEKKRA",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

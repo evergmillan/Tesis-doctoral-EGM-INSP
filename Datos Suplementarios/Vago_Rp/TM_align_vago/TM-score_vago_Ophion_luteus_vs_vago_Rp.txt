@@ -1,0 +1,23 @@
+
+ *********************************************************************
+ * TM-align (Version 20220412): protein structure alignment          *
+ * References: Y Zhang, J Skolnick. Nucl Acids Res 33, 2302-9 (2005) *
+ * Please email comments and suggestions to zhanglab@zhanggroup.org   *
+ *********************************************************************
+
+Name of Chain_1: ../Alphafold/olut007972_1_ophion_luteus/fold_olut007972_1_ophion_luteus_model_0.cif (to be superimposed onto Chain_2)
+Name of Chain_2: ../Alphafold/fold_vago_rp_gahy01002276_1/fold_vago_rp_gahy01002276_1_model_0.cif
+Length of Chain_1: 158 residues
+Length of Chain_2: 144 residues
+
+Aligned length= 113, RMSD=   2.08, Seq_ID=n_identical/n_aligned= 0.779
+TM-score= 0.66529 (if normalized by length of Chain_1, i.e., LN=158, d0=4.68)
+TM-score= 0.72764 (if normalized by length of Chain_2, i.e., LN=144, d0=4.47)
+(You should use TM-score normalized by length of the reference structure)
+
+(":" denotes residue pairs of d <  5.0 Angstrom, "." denotes other aligned residues)
+MKFLLIAALVAVAAVVFAADPAT-----------------------DEERPKMFRRLIPADVLRDFPGMCFASTKCATIEPNKTWDLAPFCGRSTCVPASDGSGRLFELVEDCGPLPKANPKCKLSEATNKTAEFPECCPVFECEEGAKLEYPEIPTIPPPTDEEIAAAEKSLAELAATKP--------
+                                              .....:::::::::::::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::::::::::::::::::::::::::::::::...                             
+-----------------------MRALIVLTGVALLCTAWAADKKKDGERSKTFTRLIPADVLRDFPNMCFASTRCATIAPGASWELSPFCGKSTCVKAEE-DGRLLELVEDCGPLPKTNPKCKLSEKTNKTAPFPHCCPVFECEPGVKLEYPEIPTPPP---------------------AAAEKKRA
+
+Total CPU time is  0.03 seconds

@@ -1,0 +1,18 @@
+[{
+ "name": "Etor018770-1_Ecdyonurus torrentis",
+ "modelSeeds": [
+  "346396198"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MKFLVVAVVIAVALAAEETAERPKTFRRLIPADVLRDFPGLCFASTRCSTIEPGKSWELAPFCGRSTCVAEEGRLLEMVEDCGPLPKANPKCKLSEKTNKTAEFPSCCPIFECEAGVKLEYPELPAPPAEAAAAAASSTAAPKA",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

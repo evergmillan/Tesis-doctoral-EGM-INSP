@@ -1,0 +1,18 @@
+[{
+ "name": "Olut007972-1_Ophion luteus",
+ "modelSeeds": [
+  "540552081"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MKFLLIAALVAVAAVVFAADPATDEERPKMFRRLIPADVLRDFPGMCFASTKCATIEPNKTWDLAPFCGRSTCVPASDGSGRLFELVEDCGPLPKANPKCKLSEATNKTAEFPECCPVFECEEGAKLEYPEIPTIPPPTDEEIAAAEKSLAELAATKP",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]
