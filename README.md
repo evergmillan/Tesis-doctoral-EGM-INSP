@@ -1,5 +1,3 @@
-# Tesis-doctoral-EGM-INSP
-Tuberías bioinformáticas, análisis estadístico de RT-qPCR (R/tidyverse) y modelado estructural 3D (AlphaFold/TM-align/Foldseek) correspondientes a mi tesis doctoral sobre inmunidad innata en Rhodnius prolixus, vías de RNAi y patogénesis del virus Triatoma (TrV).
 # Innate Immune Response and RNAi Mechanisms in *Rhodnius prolixus* During Triatoma Virus (TrV) Infection
 
 This repository contains the supplementary datasets, raw qPCR reports, 3D structural models, sequence homology analyses, and R scripts associated with my doctoral thesis.
